@@ -1,5 +1,5 @@
 #Esercizio 8
-
+#Dato in input il nominativo e l’età di uno studente, visualizzare a video la posizione del registro, il nominativo, il nome della scuola e la data odierna.
 #Scritta a schermo di cosa fa il programma
 print ("Inserisci il nome e l'età di uno studente per visualizzare la posizione \nnel registro, il nome della scuola e la data odierna: ")
 
