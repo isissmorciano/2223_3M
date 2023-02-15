@@ -32,7 +32,7 @@ Un parcheggio ha tariffa 2 euro per la prima ora di sosta e 1 euro per ogni ora 
 24. In un concorso a punteggio conseguito nelle prove scritte vanno aggiunti i punti relativi ai titli di studio secondo il seguente schema: elementare 1 punto, media 2 punti, superiore 4 punti, laurea 7 punti, nessun titolo 0 punti. Calcola il punteggio finale conoscendo il punteggio iniziale e il titolo di studio.
 25. In una copisteria, il costo unitario delle fotocopie varia a seconda del numero da effetture secondo la seguente tabella: n.1-19 0,10 euro, n.20-100 0,08 euro, piu di 100 0,05 euro. Inoltre se le fotocopie sono da rilegare viene aggiunto un costo di 1,80 euro. Dati in input il numero di fotocopie da effetturare, il nome del cliente e un indicazione che segnali se il plico è da rilegare, calcola il costo totale e stampa il seguente prospetto: 
  Gentile Sig. ___
- il suo preventico è di ___ euro
+ il suo preventivo è di ___ euro
  compresa la rilegatura.
  L'ultima riga è da scrivere solo se è richiesta la rilegatura.
-26.
+26. 
