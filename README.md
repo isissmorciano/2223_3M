@@ -35,4 +35,22 @@ Un parcheggio ha tariffa 2 euro per la prima ora di sosta e 1 euro per ogni ora 
  il suo preventivo è di ___ euro
  compresa la rilegatura.
  L'ultima riga è da scrivere solo se è richiesta la rilegatura.
-26. 
+26. uno studente ha effettuato 4 prove ottenendo voti compresi tra 1 e 10. scrivi un programma che calcoli la media dei voti e stampi il se guente p0rospetto:
+STUDENTE_____
+MEDIA____
+RISULTA___
+stampa la scritta "sufficiente" se la media è >6, "insufficiente" altrimenti
+27. scrivi un programma che, tramite menu, permetta di calcolare il quadrato, il cubo e la radice quadrata di un numero fornito in input. Prevedi opportuni messaggi di errore se la scelta è errata e se viene richiesta la radice quadrata di un numero negativo.
+28. scrivi un programma che, tramite menu, permetta di calcolare l'area e il perimetro di un triangolo, distinguendo i casi di triangolo rettangolo, isoscele, equilatero e generico.
+29. un campeggio vuole calcolare il costo degli affitti dei suoi bungalow. Scrivi un programma che effettui il calcolo dell'affitto di un bungalow (massimo per 2 settimane) tenendo presenti le seguenti tariffe: quota fissa 100 euro, una settimana 600 euro, due settimane 1100 euro e eventuale supplemento lenzuola 20 euro a settimana
+30. generare una lettera casuale tra A ed E convertire la lettera in un voto numerico
+A-B = 3
+C = 2
+D-E = 1
+31. scrivere 10 volte la parola "ciao", sommare i numeri da 10 a 20 (compresi gli estremi), sommare i numeri pari fino a 30 (30 incluso) e moltiplicare i numeri da 1 a 10
+32. 
+ 
+
+
+
+
