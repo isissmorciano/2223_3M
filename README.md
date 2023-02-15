@@ -35,10 +35,10 @@ Un parcheggio ha tariffa 2 euro per la prima ora di sosta e 1 euro per ogni ora 
  il suo preventivo è di ___ euro
  compresa la rilegatura.
  L'ultima riga è da scrivere solo se è richiesta la rilegatura.
-26. uno studente ha effettuato 4 prove ottenendo voti compresi tra 1 e 10. scrivi un programma che calcoli la media dei voti e stampi il se guente p0rospetto:
+26. uno studente ha effettuato 4 prove ottenendo voti compresi tra 1 e 10. scrivi un programma che calcoli la media dei voti e stampi il se guente prospetto:
 STUDENTE_____
 MEDIA____
-RISULTA___
+RISULTA____
 stampa la scritta "sufficiente" se la media è >6, "insufficiente" altrimenti
 27. scrivi un programma che, tramite menu, permetta di calcolare il quadrato, il cubo e la radice quadrata di un numero fornito in input. Prevedi opportuni messaggi di errore se la scelta è errata e se viene richiesta la radice quadrata di un numero negativo.
 28. scrivi un programma che, tramite menu, permetta di calcolare l'area e il perimetro di un triangolo, distinguendo i casi di triangolo rettangolo, isoscele, equilatero e generico.
