@@ -29,4 +29,10 @@ Un parcheggio ha tariffa 2 euro per la prima ora di sosta e 1 euro per ogni ora 
 21. Crea un programma che verifichi se la data inserita è corretta (attenzione: i mesi sono 12, non in tutti i mesi ci sono 31 giorni, alcuni anni sono bisestili)
 22. Il programma legge tre lunghezze dei lati di un triangolo e dice se il triangolo è scaleno, isoscele o equilatero. 
 23. Scrivere un programma che legga il nominativo di uno studente e un voto, e dica se è insufficiente o sufficiente, e se è insufficiente distingua tra gravemente insufficiente (minore o uguale a 4) o insufficiente (compreso tra 4 (escluso) e 6 (escluso)). Si visualizzi il nominativo e il giudizio, non il valore del voto.
-24. 
+24. In un concorso a punteggio conseguito nelle prove scritte vanno aggiunti i punti relativi ai titli di studio secondo il seguente schema: elementare 1 punto, media 2 punti, superiore 4 punti, laurea 7 punti, nessun titolo 0 punti. Calcola il punteggio finale conoscendo il punteggio iniziale e il titolo di studio.
+25. In una copisteria, il costo unitario delle fotocopie varia a seconda del numero da effetture secondo la seguente tabella: n.1-19 0,10 euro, n.20-100 0,08 euro, piu di 100 0,05 euro. Inoltre se le fotocopie sono da rilegare viene aggiunto un costo di 1,80 euro. Dati in input il numero di fotocopie da effetturare, il nome del cliente e un indicazione che segnali se il plico è da rilegare, calcola il costo totale e stampa il seguente prospetto: 
+ Gentile Sig. ___
+ il suo preventico è di ___ euro
+ compresa la rilegatura.
+ L'ultima riga è da scrivere solo se è richiesta la rilegatura.
+26.
