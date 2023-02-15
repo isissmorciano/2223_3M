@@ -1,24 +1,17 @@
-#Esercizio 5
-
+#Cristian Uva 3M 4/10/2022
+#Esercizio 6
 #Scrivi un algoritmo che determini la circonferenza e l’area di un cerchio conoscendo il raggio.
 
-#inizio
+#Scritta a schermo di cosa fa il programma
+print ("Inserisci il raggio del cerchio: ")
 
-#raggio e pgreco
+#Inserimento dei valori
+raggio = float(input("Inserisci il raggio: "))
 
-raggio = int(input("Determinare il raggio: "))
-pgreco = 3.14
+#Calcolo del totale
+circonferenza = 3.14*raggio*2
+area = 3.14 * raggio 
 
-#determinazione della circonferenza
-
-circonferenza = (pgreco * 2) * raggio
-
-circonferenza = round(circonferenza, 2)
-
-print(f"La circonferenza ottenuta e': {circonferenza}")
-
-#determinazione dell'area
-
-area = (pgreco) * (raggio**2)
-
-print(f"L'area ottenuta e': {area}")
+#Lettura a schermo del risultato
+print ("La circonferenza e'", circonferenza)  
+print ("L'area e'", area)
