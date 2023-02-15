@@ -2,7 +2,7 @@
 
 formato dei file degli esercizi: **esercizio_056.py**
 
-## Input/Output
+## Input/Output: print() e input()
 
 1. Dato un importo, calcolare lo sconto del 5% e applicare un'IVA dell'8%.
 2. Dato un nominativo di un alunno e 3 voti di una materia, visualizzare la media dei voti.
@@ -12,14 +12,14 @@ formato dei file degli esercizi: **esercizio_056.py**
 6. Calcola il tempo trascorso tra due date espresse in giorni, mesi e anni (es: 12/06/2020). Consideriamo i mesi di 30 giorni.
 7. Letto in input il valore di X calcola il valore dell’espressione aX^2 + bX sapendo che A vale 10 e B vale 15.
 8. Dato in input il nominativo e l’età di uno studente, visualizzare a video la posizione del registro, il nominativo, il nome della scuola e la data odierna.
-9. Crea un programma che permetta di calcolare e visualizzare la spesa necessaria per pavimentare una stanza di dimensione 7*4 avendo in input: il costo delle piastrelle al metro quadrato, il costo orario della manodopera e il numero di ore impiegate. Al costo finale aggiungi l’X% di IVA.
+9. Crea un programma che permetta di calcolare e visualizzare la spesa necessaria per pavimentare una stanza di dimensione 7\*4 avendo in input: il costo delle piastrelle al metro quadrato, il costo orario della manodopera e il numero di ore impiegate. Al costo finale aggiungi l’X% di IVA.
 10. Un cliente ha deciso di costruire una piccola casetta per gli attrezzi da giardino. Hai bisogno di L assi larghe per il tetto, P assi di legno piccole per le pareti e Q riquadri di legno per il pavimento. Realizza un programma che dopo avere preso in input L,P,Q e il loro prezzo unitario (senza IVA), calcoli e visualizzi la spesa da sostenere, sapendo che il venditore ha uno sconto del 10% ma chiede 30 euro per la consegna.
 11. Data un'equazione di 2° grado che abbia come soluzione “due numeri reali distinti” (Delta>0), calcoli tali valori, il fuoco e il vertice. Visualizzare oltre ai valori sopracitati anche il valore del delta.
 12. Dato un importo, applicare lo sconto del 5% e considerare l'IVA al 12%.
 13. Un giocatore di D&D vuole visualizzare le sei statische del suo personaggio, dati i sei valori compresi tra 3-18, visualizzarli in ordine con accanto l'etichetta che lo descriva: Str, Int, Sag, Dex, Cos, Cha.
 14. Data una sequenza di 8 bit, dare il corrispendente valore decimale. (Dati 8 varibili, da b0 a b7).
 
-COSTRUTTO SE
+## Scelta Condizionata: if e switch
 
 15. Determina se un numero è positivo/negativo.
 16. Sul prezzo di un prodotto viene praticato lo sconto del X% se si acquistano fino a 10 pezzi e dell'Y% se si acquistano più di 10 pezzi. Presi in input il pezzo di un prodotto e il numero di pezzi da acquistare, stampa la spesa da sostenere.
