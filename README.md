@@ -50,7 +50,10 @@ A-B = 3
 C = 2
 D-E = 1
 31. Scrivere 10 volte la parola "ciao", sommare i numeri da 10 a 20 (compresi gli estremi), sommare i numeri pari fino a 30 (30 incluso) e moltiplicare i numeri da 1 a 10
-32. 
+32. Scrivi un programma che calcoli il valore della circonferenza e quello dell'area di tutti i cerchi con raggio compreso tra 1 e 20.
+33. Dati N numeri interi positivi e negativi trova la somma dei valori assoluti.
+34. In un quiz vengono poste N domande(facili e difficili). Se il concorrente risponde correttamente a una domanda facile ottiene 2 punti, altrimenti ne perde 4, per le domande difficili ottieme 4 punti se la risposta è giusta, ne perde 2 se è sbagliata. Calcola il punteggio complessivo.
+35. Dato N inserito dall'utente: stampare il massimo numero inserito, stampare il minimo numero inserito, stampare la media dei numeri inseriti, stampare la media di solo i numeri positivi inseriti. 
  
 
 
