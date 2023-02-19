@@ -54,7 +54,10 @@ D-E = 1
 33. Dati N numeri interi positivi e negativi trova la somma dei valori assoluti.
 34. In un quiz vengono poste N domande(facili e difficili). Se il concorrente risponde correttamente a una domanda facile ottiene 2 punti, altrimenti ne perde 4, per le domande difficili ottieme 4 punti se la risposta è giusta, ne perde 2 se è sbagliata. Calcola il punteggio complessivo.
 35. Dato N inserito dall'utente: stampare il massimo numero inserito, stampare il minimo numero inserito, stampare la media dei numeri inseriti, stampare la media di solo i numeri positivi inseriti. 
- 
+36. Determina il prodotto di due numeriinteri utilizzando solamente l'operazione di addizione.
+## Cicli-loop 
+37.Siano dati in input il codice fiscale, il reddito e il nome di una serie di contribuenti, stampa il nomi e i codici fiscali dei contribuenti con reddit superiore a 30.000 euro.
+
 
 
 
