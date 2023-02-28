@@ -56,7 +56,7 @@ D-E = 1
 35. Dato N inserito dall'utente: stampare il massimo numero inserito, stampare il minimo numero inserito, stampare la media dei numeri inseriti, stampare la media di solo i numeri positivi inseriti. 
 36. Determina il prodotto di due numeriinteri utilizzando solamente l'operazione di addizione.
 ## Cicli-loop 
-37.Siano dati in input il codice fiscale, il reddito e il nome di una serie di contribuenti, stampa il nomi e i codici fiscali dei contribuenti con reddit superiore a 30.000 euro.
+37. Siano dati in input il codice fiscale, il reddito e il nome di una serie di contribuenti, stampa il nomi e i codici fiscali dei contribuenti con reddito superiore a 30.000 euro.
 
 
 
