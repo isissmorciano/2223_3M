@@ -68,7 +68,7 @@ D-E = 1
 46. Crea un programma che utilizzi un ciclo nidificato per visualizzare una superficie colllinare.
 47. Stampa i primi N numeri pari e successivamente i primi N numeri dispari (N è letto in input ed è >0).
 48. Scrivi un programma che stampi N numeri (N è letto in input e deve essere > 0) in modo tale che il numero stampato sia il doppio del precedente.
-49. 
+49. Realizza un programma per stampare informazioni su alcuni compact disc. Per ogni CD devono essere richiesti: titolo del CD, numero di brani che compongono il CD, titolo e durata(espressa in minuti) di ciascun brano. Stampa la durata del CD e il titolo del brano ha durata maggiore. Ripeti il procedimento per N CD (N è fornito in input) e stampa al termine il titolo del CD  che ha durata maggiore.
 
 
 
