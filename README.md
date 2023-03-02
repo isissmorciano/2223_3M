@@ -71,7 +71,15 @@ D-E = 1
 49. Realizza un programma per stampare informazioni su alcuni compact disc. Per ogni CD devono essere richiesti: titolo del CD, numero di brani che compongono il CD, titolo e durata(espressa in minuti) di ciascun brano. Stampa la durata del CD e il titolo del brano ha durata maggiore. Ripeti il procedimento per N CD (N è fornito in input) e stampa al termine il titolo del CD  che ha durata maggiore.
 50. Calcola il quadrato di un numero N sfruttando il fatto che esso è dato dalla somma dei primi N numeri dispari (per esempio 3^2=1+3+5=9).
 51. Leggi dalla tastiera una serie di coppie di numeri interi, una coppia per ogni riga. Conta le coppie che presentano due valori che siano uguali. La serie termina quando entrambi ii valori letti in input sono uguali a 0.
-52. 
+## Liste
+52. Creare una lista con i cognomi degli alunni di 3M (in ordine alfabetico), stampare tutti i cognomi (uno per riga), inserire un nuovo alunno in fondo, cancellare il primo alunno, inserire l'alunno 'Pippo' seguendo l'ordine alfabetico, modificare il cognome dell'alunno 'Pippo' in 'Pluto', stampare il cognome del quarto alunno.
+53. Modificare l'esercizio precedente: creare una nuova lista che contiene solo i cognomi piu lunghi di 8 caratteri che contengono la lettera E, stampare i cognomi ordinati dalla Z alla A, creare una copia della lista cognomi lunghi con la E, creare una nuova lista che contiene solo i cognomi che contengono la lettera C, unire le due liste 'cognomi lunghi con la E' e 'cognomi che contengono la lettera C'.
+54. 1.Data una lista con elementi: "Signore Mario" e/o "Signora Maria", dre in output una lista dei soli nomi femminili senza volitivo.
+55. Data in input una lista dei soli nominativi femminili, dire quanti sono i nomi femminili e generare una nuova lista con i nomi femminili e il volitivo esempio: "Sig.ra Maria" e visualizzarlo.
+56. Creare una lista di 8 numeri random tra 1 e 10 (estremi inclusi) e calcolare: il massimo dei numeri, il minimo dei numeri, la moda dei numeri, una lista con i tre risultati, la lista con i risultati. Utilizzare le funzioni e il metodo top-down nella risoluzione del problema.
+## Funzioni
+
+ 
 
 
 
