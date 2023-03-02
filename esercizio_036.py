@@ -9,3 +9,4 @@ for num2 in range(1, num2):
     num1=num1+x
 
 print("\nIl prodotto è: ", num1)
+#fine
