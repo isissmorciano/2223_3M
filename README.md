@@ -1,5 +1,9 @@
 # 2223_3M
 
+## temp
+1. [calcola_sconto_e_iva](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_001.py)
+2. [calcola_media_voti](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_002.py)
+
 ## Input/Output: print() e input()
 
 1. Dato un importo, calcolare lo sconto del 5% e applicare un'IVA dell'8%.
