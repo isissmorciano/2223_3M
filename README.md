@@ -57,6 +57,9 @@ D-E = 1
 36. Determina il prodotto di due numeriinteri utilizzando solamente l'operazione di addizione.
 ## Cicli-loop 
 37. Siano dati in input il codice fiscale, il reddito e il nome di una serie di contribuenti, stampa il nomi e i codici fiscali dei contribuenti con reddito superiore a 30.000 euro.
+38. Dati in input i risultati relativi a N seggi elettorali, per ogni seggio hai le seguenti informazioni : numero iscritti, numero votanti, numero di schede nulle, numero di schede bianche. Scrivi un programma che stampi il seguente prospetto: percentuale votanti su tutti i seggi, percentuale schede bianche, percentuale schede nulle.
+39. Scrivi un programma che presi in input l'anno corrente e i dati relativi a N dipendenti di un'azienda con nome e anno di nascita, stampi il numero di dipendenti di età pensionabile(età>=65) e il numero di dipendenti minorenni(età<18)
+40. 
 
 
 
