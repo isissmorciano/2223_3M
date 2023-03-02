@@ -66,6 +66,9 @@ D-E = 1
 44. Di N città si conoscono il numero di abitanti e il numero di quelli attivi. Calcola per ciascuna città l'indice di attività (attivi/abitanti * 100) e stampa il nome della città con l'indice più basso e di quella con l'indice più alto.
 45. Crea un programma che utilizzi un ciclo nidificato per visualizzare un albero di natale con caratteri a scelta.
 46. Crea un programma che utilizzi un ciclo nidificato per visualizzare una superficie colllinare.
+47. Stampa i primi N numeri pari e successivamente i primi N numeri dispari (N è letto in input ed è >0).
+48. Scrivi un programma che stampi N numeri (N è letto in input e deve essere > 0) in modo tale che il numero stampato sia il doppio del precedente.
+49. 
 
 
 
