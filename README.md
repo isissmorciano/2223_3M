@@ -69,7 +69,9 @@ D-E = 1
 47. Stampa i primi N numeri pari e successivamente i primi N numeri dispari (N è letto in input ed è >0).
 48. Scrivi un programma che stampi N numeri (N è letto in input e deve essere > 0) in modo tale che il numero stampato sia il doppio del precedente.
 49. Realizza un programma per stampare informazioni su alcuni compact disc. Per ogni CD devono essere richiesti: titolo del CD, numero di brani che compongono il CD, titolo e durata(espressa in minuti) di ciascun brano. Stampa la durata del CD e il titolo del brano ha durata maggiore. Ripeti il procedimento per N CD (N è fornito in input) e stampa al termine il titolo del CD  che ha durata maggiore.
-
+50. Calcola il quadrato di un numero N sfruttando il fatto che esso è dato dalla somma dei primi N numeri dispari (per esempio 3^2=1+3+5=9).
+51. Leggi dalla tastiera una serie di coppie di numeri interi, una coppia per ogni riga. Conta le coppie che presentano due valori che siano uguali. La serie termina quando entrambi ii valori letti in input sono uguali a 0.
+52. 
 
 
 
