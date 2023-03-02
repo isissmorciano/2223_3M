@@ -55,7 +55,9 @@ D-E = 1
 34. In un quiz vengono poste N domande(facili e difficili). Se il concorrente risponde correttamente a una domanda facile ottiene 2 punti, altrimenti ne perde 4, per le domande difficili ottieme 4 punti se la risposta è giusta, ne perde 2 se è sbagliata. Calcola il punteggio complessivo.
 35. Dato N inserito dall'utente: stampare il massimo numero inserito, stampare il minimo numero inserito, stampare la media dei numeri inseriti, stampare la media di solo i numeri positivi inseriti. 
 36. Determina il prodotto di due numeriinteri utilizzando solamente l'operazione di addizione.
-## Cicli-loop 
+
+
+## Cicli: for e while
 37. Siano dati in input il codice fiscale, il reddito e il nome di una serie di contribuenti, stampa il nomi e i codici fiscali dei contribuenti con reddito superiore a 30.000 euro.
 38. Dati in input i risultati relativi a N seggi elettorali, per ogni seggio hai le seguenti informazioni : numero iscritti, numero votanti, numero di schede nulle, numero di schede bianche. Scrivi un programma che stampi il seguente prospetto: percentuale votanti su tutti i seggi, percentuale schede bianche, percentuale schede nulle.
 39. Scrivi un programma che presi in input l'anno corrente e i dati relativi a N dipendenti di un'azienda con nome e anno di nascita, stampi il numero di dipendenti di età pensionabile(età>=65) e il numero di dipendenti minorenni(età<18).
@@ -71,6 +73,8 @@ D-E = 1
 49. Realizza un programma per stampare informazioni su alcuni compact disc. Per ogni CD devono essere richiesti: titolo del CD, numero di brani che compongono il CD, titolo e durata(espressa in minuti) di ciascun brano. Stampa la durata del CD e il titolo del brano ha durata maggiore. Ripeti il procedimento per N CD (N è fornito in input) e stampa al termine il titolo del CD  che ha durata maggiore.
 50. Calcola il quadrato di un numero N sfruttando il fatto che esso è dato dalla somma dei primi N numeri dispari (per esempio 3^2=1+3+5=9).
 51. Leggi dalla tastiera una serie di coppie di numeri interi, una coppia per ogni riga. Conta le coppie che presentano due valori che siano uguali. La serie termina quando entrambi ii valori letti in input sono uguali a 0.
+
+
 ## Liste
 52. Creare una lista con i cognomi degli alunni di 3M (in ordine alfabetico), stampare tutti i cognomi (uno per riga), inserire un nuovo alunno in fondo, cancellare il primo alunno, inserire l'alunno 'Pippo' seguendo l'ordine alfabetico, modificare il cognome dell'alunno 'Pippo' in 'Pluto', stampare il cognome del quarto alunno.
 53. Modificare l'esercizio precedente: creare una nuova lista che contiene solo i cognomi piu lunghi di 8 caratteri che contengono la lettera E, stampare i cognomi ordinati dalla Z alla A, creare una copia della lista cognomi lunghi con la E, creare una nuova lista che contiene solo i cognomi che contengono la lettera C, unire le due liste 'cognomi lunghi con la E' e 'cognomi che contengono la lettera C'.
