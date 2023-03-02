@@ -64,6 +64,8 @@ D-E = 1
 42. Siano dati in input i dati relativi a una serie di alberghi di una determinta località. Per ogni albergo hai in input: nome albergo, categoria, numero posti disponibili. Supponendo di  avere in input un numero intero indicante il numero di posti da prenotare, stampa uno dei seguenti messaggi: La prenotazione può essere effettuata nell'hotel... e rimangono disponibili ancora... posti. Oppure La prenotazione non può essere effetuata perche mancano.... posti. A seconda che il numero di posti da prenotare sia minore o uguale al numero di posti disponibili oppure se i posti da prenotare sono più dei posti disponibili.
 43. Scrivi un programma che,presi in input i dati relativi a una serie di prodotti con: codice, descrizione, prezzo. Stampi il codice e la descrizione relativi al prodotto più costoso.
 44. Di N città si conoscono il numero di abitanti e il numero di quelli attivi. Calcola per ciascuna città l'indice di attività (attivi/abitanti * 100) e stampa il nome della città con l'indice più basso e di quella con l'indice più alto.
+45. Crea un programma che utilizzi un ciclo nidificato per visualizzare un albero di natale con caratteri a scelta.
+46. Crea un programma che utilizzi un ciclo nidificato per visualizzare una superficie colllinare.
 
 
 
