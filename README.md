@@ -1,7 +1,5 @@
 # 2223_3M
 
-formato dei file degli esercizi: **esercizio_056.py**
-
 ## Input/Output: print() e input()
 
 1. Dato un importo, calcolare lo sconto del 5% e applicare un'IVA dell'8%.
