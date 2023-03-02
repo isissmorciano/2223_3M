@@ -60,7 +60,9 @@ D-E = 1
 38. Dati in input i risultati relativi a N seggi elettorali, per ogni seggio hai le seguenti informazioni : numero iscritti, numero votanti, numero di schede nulle, numero di schede bianche. Scrivi un programma che stampi il seguente prospetto: percentuale votanti su tutti i seggi, percentuale schede bianche, percentuale schede nulle.
 39. Scrivi un programma che presi in input l'anno corrente e i dati relativi a N dipendenti di un'azienda con nome e anno di nascita, stampi il numero di dipendenti di età pensionabile(età>=65) e il numero di dipendenti minorenni(età<18).
 40. Di N persone sono forniti il peso e l'altezza. Calcola per ciascuna l'indice di obesità(peso/altezza). Conta a mano a mano il numero di quelle che hanno indice di obesità maggiore di un valore K prefissato.
-41. 
+41. Crea un programma che esegua le seguenti istruzioni: 1) lasciare una moneta fino a che non esce testa, 2) lanciare una moneta fino a che non esce testa 2 volte di fila, 3) lanciare due dadi fino a che non esce lo stesso numero in entrambi, 4) stampare i valori usciti ad ogni lancio solo se la somma dei valori e' maggiore di 5, 5)terminare forzatamente l'esecuzione se la somma dei valori e' 11.
+42. Siano dati in input i dati relativi a una serie di alberghi di una determinta località. Per ogni albergo hai in input: nome albergo, categoria, numero posti disponibili. Supponendo di  avere in input un numero intero indicante il numero di posti da prenotare, stampa uno dei seguenti messaggi: La prenotazione può essere effettuata nell'hotel... e rimangono disponibili ancora... posti. Oppure La prenotazione non può essere effetuata perche mancano.... posti. A seconda che il numero di posti da prenotare sia minore o uguale al numero di posti disponibili oppure se i posti da prenotare sono più dei posti disponibili.
+43. Scrivi un programma che,presi in input i dati relativi a una serie di prodotti con: codice, descrizione, prezzo. Stampi il codice e la descrizione relativi al prodotto più costoso.
 
 
 
