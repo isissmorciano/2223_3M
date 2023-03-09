@@ -1,5 +1,8 @@
 # 2223_3M
 
+## Inviti
+per entrare nel team della 3M, da membri, dovete cliccare sul profilo, cliccare organization e dovreste vedere l'invito(Se siete stati invitati).
+
 ## Collegamento agli esercizi
 
 ## Input/Output: print() e input()
