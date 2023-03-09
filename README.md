@@ -1,6 +1,6 @@
 # 2223_3M
 
-## temp
+## Collegamento agli esercizi
 1. [calcola_sconto_e_iva](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_001.py)
 2. [calcola_media_voti](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_002.py)
 3. [calcolo_giornaliero](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_003.py)
