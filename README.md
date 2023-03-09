@@ -3,6 +3,23 @@
 ## temp
 1. [calcola_sconto_e_iva](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_001.py)
 2. [calcola_media_voti](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_002.py)
+3. [calcolo_giornaliero](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_003.py)
+4. [calcola_spesa_cinema](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_004.py) 
+5. [calcola_circonferenza](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_005.py)
+6. [calcola_differenza_date](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_006.py)
+7. [calcola_espressione](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_007.py)
+8. [visualizza_dati_studente](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_008.py)
+9. [calcola_spesa_pavimentazione](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_009.py)
+10. [calcola_spesa_costruzione](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_010.py)
+11. [equazione_secondo_grado](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_011.py)
+12. [calcola_sconto_e_interesse](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_012.py)
+13. [calcola_conversione_valuta](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_013.py)
+14. [calcola_prestito_bancario](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_014.py)
+
+
+
+
+
 
 ## Input/Output: print() e input()
 
