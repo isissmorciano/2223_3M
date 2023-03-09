@@ -21,8 +21,31 @@ per entrare nel team della 3M, da membri, dovete cliccare sul profilo, cliccare 
 13. [calcola_conversione_valuta](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_013.py)
 14. [calcola_prestito_bancario](https://github.com/isissmorciano/2223_3M/blob/main/1_input_output/esercizio_014.py)
 
-
-
+## Scelta Condizionata: if e switch
+15. [Numero_positivo/negativo](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_015.py)
+16. [Calcolo_sconto](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_016.py)
+17. [Verifica_carattere](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_017.py)
+18. [Calcolo_importo](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_018.py)
+19. [Anno_bisestile](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_019.py)
+20. [Conversione_giorno](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_020.py)
+21. [Verifica_data_inserita](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_021.py)
+22. [Tipo_di_triangolo](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_022.py)
+23. [Giudizio_voto_studente](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_023.py)
+24. [Punteggio_finale](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_024.py)
+25. [Costo_fotocopie](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_025.py)
+26. [Calcolo_media_voti](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_026.py)
+27. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_027.py)
+28. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_028.py)
+29. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_029.py)
+30. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_030.py)
+31. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_031.py)
+32. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_032.py)
+33. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_033.py)
+34. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_034.py)
+35. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_035.py)
+36. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_036.py)
+37. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_037.py)
+38. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_038.py)
 
 
 
@@ -73,14 +96,15 @@ Stampa la scritta "sufficiente" se la media è >6, "insufficiente" altrimenti.
 A-B = 3
 C = 2
 D-E = 1
-
-## Cicli: for e while
 31. Scrivere 10 volte la parola "ciao", sommare i numeri da 10 a 20 (compresi gli estremi), sommare i numeri pari fino a 30 (30 incluso) e moltiplicare i numeri da 1 a 10
 32. Scrivi un programma che calcoli il valore della circonferenza e quello dell'area di tutti i cerchi con raggio compreso tra 1 e 20.
 33. Dati N numeri interi positivi e negativi trova la somma dei valori assoluti.
 34. In un quiz vengono poste N domande(facili e difficili). Se il concorrente risponde correttamente a una domanda facile ottiene 2 punti, altrimenti ne perde 4, per le domande difficili ottieme 4 punti se la risposta è giusta, ne perde 2 se è sbagliata. Calcola il punteggio complessivo.
 35. Dato N inserito dall'utente: stampare il massimo numero inserito, stampare il minimo numero inserito, stampare la media dei numeri inseriti, stampare la media di solo i numeri positivi inseriti. 
-36. Determina il prodotto di due numeri interi utilizzando solamente l'operazione di addizione.
+36. Determina il prodotto di due numeriinteri utilizzando solamente l'operazione di addizione.
+
+
+## Cicli: for e while
 37. Siano dati in input il codice fiscale, il reddito e il nome di una serie di contribuenti, stampa il nomi e i codici fiscali dei contribuenti con reddito superiore a 30.000 euro.
 38. Dati in input i risultati relativi a N seggi elettorali, per ogni seggio hai le seguenti informazioni : numero iscritti, numero votanti, numero di schede nulle, numero di schede bianche. Scrivi un programma che stampi il seguente prospetto: percentuale votanti su tutti i seggi, percentuale schede bianche, percentuale schede nulle.
 39. Scrivi un programma che presi in input l'anno corrente e i dati relativi a N dipendenti di un'azienda con nome e anno di nascita, stampi il numero di dipendenti di età pensionabile(età>=65) e il numero di dipendenti minorenni(età<18).
@@ -106,7 +130,7 @@ D-E = 1
 56. Creare una lista di 8 numeri random tra 1 e 10 (estremi inclusi) e calcolare: il massimo dei numeri, il minimo dei numeri, la moda dei numeri, una lista con i tre risultati, la lista con i risultati. Utilizzare le funzioni e il metodo top-down nella risoluzione del problema.
 ## Funzioni
 57. Creare una funzione descrizione() con due parametri nome ed eta. La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione("Pippo",23). Utilizzare il type-hinting.
-58. Creare una funzione(?) numero_casuale() che restituisce un numero casuale tra 0 e 99. La funzione restituisce il numero generato numero_casuale(). Utilizzare il type-hinting.
+58. Creare una funzione descrizione() con due parametri nome ed eta. La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione("Pippo",23). Utilizzare il type-hinting.
 59. Creare una funzione descrizione_eta_casuale() con un parametro nome. L'eta e' calcolata in modo casuale La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione_eta_casuale("Pippo"). Utilizzare il type-hinting.
 60. Creare una funzione(?) descrizione_casuale(). Il nome e' scelto in modo casuale da una lista di nomi interna alla fuzione. L'eta e' calcolata in modo casuale La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione_casuale(). Utilizzare il type-hinting.
 61. Scrivere una procedura che permetta di scambiare il contenuto di due variabili intere.
