@@ -90,8 +90,11 @@ D-E = 1
 60. Creare una funzione(?) descrizione_casuale(). Il nome e' scelto in modo casuale da una lista di nomi interna alla fuzione. L'eta e' calcolata in modo casuale La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione_casuale(). Utilizzare il type-hinting.
 61. Scrivere una procedura che permetta di scambiare il contenuto di due variabili intere.
 62. Scrivere una funzione che riceva due date dello stesso anno e restituisca il numero di giorni che sono trascorsi tra le due date.
-
- 
+63. Scrivere una procedura che effettui il confronto,la convalidazione e il calcolo della differenza fra due date espresse in giorno, mese, anno.
+64. Creare un programma che fa inserire all’utente tre caratteri e usando una funzione verifica e stampa quanti di questi sono lettere maiuscole.
+65. Creare una funzione che riceve tre numeri interi e restituisce la differenza tra il più grande e il più piccolo. Creare anche un main che consenta di provare la funzione.
+66. Creare una funzione che restituisce se un numero intero ha almeno 3 divisori. Creare poi un programma che dica se un numero passato dall’utente e il più grande numero intero più piccolo del suo quadrato hanno almeno tre divisori.
+67. Calcolare l'n-esimo numero della successione di Fibonacci. Creare la funzione iterative_fibonacci(n:int) -> int che calcola il numero in modo iterativo. Creare la funzione recursive_fibonacci(n:int) -> int che calcola il numero in modo ricorsivo.
 
 
 
