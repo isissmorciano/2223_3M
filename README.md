@@ -107,7 +107,7 @@ D-E = 1
 56. Creare una lista di 8 numeri random tra 1 e 10 (estremi inclusi) e calcolare: il massimo dei numeri, il minimo dei numeri, la moda dei numeri, una lista con i tre risultati, la lista con i risultati. Utilizzare le funzioni e il metodo top-down nella risoluzione del problema.
 ## Funzioni
 57. Creare una funzione descrizione() con due parametri nome ed eta. La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione("Pippo",23). Utilizzare il type-hinting.
-58. Creare una funzione descrizione() con due parametri nome ed eta. La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione("Pippo",23). Utilizzare il type-hinting.
+58. Creare una funzione(?) numero_casuale() che restituisce un numero casuale tra 0 e 99. La funzione restituisce il numero generato numero_casuale(). Utilizzare il type-hinting.
 59. Creare una funzione descrizione_eta_casuale() con un parametro nome. L'eta e' calcolata in modo casuale La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione_eta_casuale("Pippo"). Utilizzare il type-hinting.
 60. Creare una funzione(?) descrizione_casuale(). Il nome e' scelto in modo casuale da una lista di nomi interna alla fuzione. L'eta e' calcolata in modo casuale La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione_casuale(). Utilizzare il type-hinting.
 61. Scrivere una procedura che permetta di scambiare il contenuto di due variabili intere.
