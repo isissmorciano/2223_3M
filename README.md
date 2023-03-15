@@ -1,7 +1,8 @@
 # 2223_3M
 
-## Inviti
-per entrare nel team della 3M, da membri, dovete cliccare sul profilo, cliccare organization e dovreste vedere l'invito(Se siete stati invitati).
+## Remote VSCode coding
+Istruzioni per connettersi con VSCode tramite il protocollo SSH ad una macchina remota ed eseguire il proprio codice sulla macchina remota.
+[Remote VSCode Coding](https://docs.google.com/document/d/1Hj421cgJWSpHDKt7EvSvzY98OCbt7lCXVqEd5uTHEic/edit?usp=sharing)
 
 ## Collegamento agli esercizi
 
