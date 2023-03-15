@@ -35,18 +35,20 @@ Istruzioni per connettersi con VSCode tramite il protocollo SSH ad una macchina 
 24. [Punteggio_finale](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_024.py)
 25. [Costo_fotocopie](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_025.py)
 26. [Calcolo_media_voti](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_026.py)
-27. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_027.py)
-28. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_028.py)
-29. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_029.py)
-30. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_030.py)
-31. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_031.py)
-32. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_032.py)
-33. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_033.py)
-34. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_034.py)
-35. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_035.py)
-36. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_036.py)
-37. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_037.py)
-38. [temp](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_038.py)
+27. [Calcoli_numerici_interattivi](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_027.py)
+28. [Geometria_triangolare_interattiva](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_028.py)
+29. [Calcolo_affitto_bungalow](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_029.py)
+30. [Convertitore_lettera](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_030.py)
+31. [Esercizi_vari_di_matematica](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_031.py)
+32. [Calcolo_circonferenza_e_area](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_032.py)
+33. [Somma_di_valori_assoluti](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_033.py)
+34. [Quiz_di_domande_con_punteggio](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_034.py)
+35. [Statistiche_numeriche](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_035.py)
+36. [Moltiplicazione_con_l'addizione](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_036.py)
+
+## Cicli: for e while
+37. [temp](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_037.py)
+38. [temp](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_038.py)
 
 
 
