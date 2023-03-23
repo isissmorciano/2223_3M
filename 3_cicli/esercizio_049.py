@@ -1,5 +1,5 @@
 print(f'*******************************************************************************************')
-print(f'|                Questo programma ti scrive il nome del cd con durata maggiore                 |')
+print(f'|                Questo programma ti scrive il nome del cd con durata maggiore            |')
 print(f'*******************************************************************************************f')
 
 
@@ -8,7 +8,7 @@ max=0
 
 for i in range(N):
     titolo=str(input(f'Inserisci titolo cd: '))
-    nb=int(input("Quanti brani compongono il cd? "))
+    nb=int(input(f'Quanti brani compongono il cd? '))
 
     
     for i in range(nb):
