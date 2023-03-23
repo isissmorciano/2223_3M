@@ -1,6 +1,6 @@
 print("**********************************************************************")
-print("|        Il programma di dice tra N città chi ha il tasso di attività        |")
-print("|                                     maggiore e minore                                     |")
+print("|        Il programma di dice tra N città chi ha il tasso di attività|")
+print("|                                     maggiore e minore              |")
 print("**********************************************************************")
 #inizio
 
