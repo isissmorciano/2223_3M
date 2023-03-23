@@ -1,6 +1,5 @@
 #Inizio
-
-#Spiegazione
+#Il programma legge tre lunghezze dei lati di un triangolo e dice se il triangolo è scaleno, isoscele o equilatero.
 print("Dare 3 valori di 3 lati di un triangolo, verrà comunicata la precisa tipologia.")
 
 #Richiesta delle variabili

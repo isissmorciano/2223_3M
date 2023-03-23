@@ -1,3 +1,4 @@
+#Esercizio 23
 print("**********************************")
 print("| inserire il nominativo e il voto (1-10) e iò programma dice se è \n sufficemte imsufficente e gravemente insufficente")
 print("**********************************")
