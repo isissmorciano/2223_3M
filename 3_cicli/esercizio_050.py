@@ -1,6 +1,6 @@
 #Inizio
 print("**************************************************************************************")
-print("|Questo programma calcola il quadrato di un numero usando però i primi N numeri primi|")
+print("*Questo programma calcola il quadrato di un numero usando però i primi N numeri primi*")
 print("**************************************************************************************")
 
 #Richiesta del numero
