@@ -1,3 +1,6 @@
+#Sul prezzo di un prodotto viene praticato lo sconto del X% se si acquistano fino a 10 pezzi e dell'Y% se si acquistano più di 10 pezzi. 
+#Presi in input il pezzo di un prodotto e il numero di pezzi da acquistare, stampa la spesa da sostenere.
+
 #Inizio
 #spiegazione
 print("Sul prezzo di un prodotto viene applicato il 15%  di sconto se acquista un massimo di 10 prodotti ed un 20%  se acquista più di 10 prodotti")
