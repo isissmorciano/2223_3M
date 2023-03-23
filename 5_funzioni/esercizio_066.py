@@ -1,6 +1,7 @@
 #Creare una funzione che restituisce se un numero intero ha almeno 3 divisori.
 #Creare poi un programma che dica se un numero passato dall’utente e il più 
 #grande numero intero più piccolo del suo quadrato hanno almeno tre divisori.
+
 #inizializzazione funzione
 def tre_divisori_minimo(num):
     divisori = 0
