@@ -1,3 +1,4 @@
+#Esercizio 24
 #Mostro i punti dei vari titoli di studio
 print('''
 ╔══════════════╗
