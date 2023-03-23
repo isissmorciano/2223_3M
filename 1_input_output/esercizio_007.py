@@ -1,15 +1,12 @@
-#Cristian Uva 3M 4/10/2022
-#Esercizio 7
+#inizio 
+#spiegazione
+print("assegnare un valore a x (solo in numeri interi) all'equazione ax + bx \nsapendo che (a=10 e b=15)  ")
 
-#Scritta a schermo di cosa fa il programma
-print ("Inserisci due valori da sostituire a x in ax2+bx con a=10 e b=15 ")
+#inserisco le variabili
+x = int(input("inserisci valore di x:"))
 
-#Inserimento dei valori
-valorex2 = int(input("Inserisci il valore di x alla seconda: "))
-valorex1 = int(input("Inserisci il valore di x: "))
+#calcolo
+valore = 10 * (x * x) + 15 * x
 
-#Calcolo del totale
-risultato = (valorex2*valorex2*10 + valorex1*15)
-
-#Lettura a schermo del risultato
-print ("Il risultato e'", risultato)  
+#valore dell'espressione
+print("il valore dell'espressione è:" ,valore)  
