@@ -1,4 +1,3 @@
-
 import random
 
 numero=int(random.randint(1, 5))

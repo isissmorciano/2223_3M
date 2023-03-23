@@ -3,7 +3,7 @@
 giorno = int(input("Inserisci il giorno: "))
 mese = int(input("Inserisci il mese: "))
 anno = int(input("Inserisci l'anno (<= 3000): "))
-print(f'')
+print('\n')
 
 # Verifica se l'anno è bisestile
 if anno % 4 == 0:

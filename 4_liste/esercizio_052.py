@@ -4,7 +4,7 @@
 thislist = ["Amati","Andruccioli","Arcolin","Baffert","Chiarabini","Ciaramidaro","Cornacchia","Delbianco","Delia","Franci","Gibertini","Lupascu","Maccione","Massa","Pelusi","Savioli","Sejdi","Serra","Shkafi","Tamburini","Tonelli","Trebbi"]
 
 #aggiunta di un cognome alla fine
-thislist.append("Uva")
+thislist.append("Baffert")
 
 #eliminazione del primo cognome
 del thislist[0]

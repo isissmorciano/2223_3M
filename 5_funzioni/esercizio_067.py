@@ -21,7 +21,7 @@ fibn =iterative_fibonacci(n)
 print(fibn)
 n=int(input("inserisci il numero: "))
 
-#dunzione ricorsiva
+#funzione ricorsiva
 def recursive_fibonacci(n):
     if n<=0:
         print("non credo")
