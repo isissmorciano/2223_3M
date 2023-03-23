@@ -7,11 +7,11 @@
 print ("Un cinema stà facendo la seguente promozione: intero adulto 10 euro, minorenni  6 euro,  e anziani 5 euro. Il cinema lavora solo per gruppi/comitive su prenotazione.")
 
 #Inserimento del numero di minorenni, maggiorenni, anziani
-minor = int(input("Inserisci il numero di minorenni "))
-adult = int(input("Inserisci il numero di maggiorenni "))
+minore = int(input("Inserisci il numero di minorenni "))
+adulto = int(input("Inserisci il numero di maggiorenni "))
 elder = int(input("Inserisci il numero di anziani "))
 
 #Calcolo del prezzo
-prezzoTotale = (minor * 6 + adult * 10 + elder * 5)
+prezzoTotale = (minore * 6 + adulto * 10 + elder * 5)
 #Lettura a schermo del prezzo totale
 print ("Il prezzo totale e'", prezzoTotale, "euro") 
