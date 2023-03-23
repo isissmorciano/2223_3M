@@ -1,7 +1,7 @@
 #Inizio
 
 #Spiegazione
-print("\nDare 3 valori di 3 lati di un triangolo, verrà comunicata la precisa tipologia.\n")
+print("Dare 3 valori di 3 lati di un triangolo, verrà comunicata la precisa tipologia.")
 
 #Richiesta delle variabili
 l1 = float(input("\nDigita misura del primo lato: "))
