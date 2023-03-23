@@ -13,4 +13,4 @@ importo = importo - (importo * 5 / 100)
 importo = importo + (importo * 8 / 100)
 
 #Lettura a schermo del prezzo
-print ("Il prezzo finale e'", importo, "euro")  
+print ("Il prezzo finale e': ", importo, "euro")  
