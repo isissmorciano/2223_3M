@@ -1,33 +1,74 @@
-#Esercizio 6
-#Calcola il tempo trascorso tra due date espresse in giorni, mesi e anni (es: 12/06/2020). Consideriamo i mesi di 30 giorni.
+#Inizio
 
-#Scritta a schermo di cosa fa il programma
-print ("Calcola il tempo trascorso tra due date espresse in giorni, mesi e anni \
-considerando tutti i mesi di 30 giorni e gli anni 365 giorni: ")
+#Spiegazione 
+print("Inserire due date in gg/mm/aaaa considerando che tutti i mesi hanno un massimo di 30 giorni per convenzione. Verrà calcolato il tempo trascorso tra le due date.")
 
-#Inserimento dei valori dei giorni, mesi e anni della prima data
-print ("Inserimento dei valori dei giorni, mesi e anni della prima data")
-giorni = int(input("Inserisci il giorno: "))
-mese = int(input("Inserisci il mese: "))
-anno = int(input("Inserisci l'anno: "))
+#Richiesta variabili 
+print("\nPrima data:")
+gg1 = int(input("\nInserire Giorno: "))
+mm1 = int(input("Inserire Mese: "))
+aaaa1= int(input("Inserire Anno: "))
 
-#Inserimento dei valori dei giorni, mesi e anni della seconda data
-print ("Inserimento dei valori dei giorni, mesi e anni della seconda data")
-giorni2 = int(input("Inserisci il giorno: "))
-mese2 = int(input("Inserisci il mese: "))
-anno2 = int(input("Inserisci l'anno: "))
+print("\nSeconda data:")
+gg2 = int(input("\nInserire Giorno: "))
+mm2 = int(input("Inserire Mese: "))
+aaaa2 = int(input("Inserire Anno: "))
 
-#Calcolo della differenza tra le 2 date
-data1 = (giorni + mese * 30 + anno * 360)
-data2 = (giorni2 + mese2 * 30 + anno2 * 360)
-differenza = int(data1 - data2)
+#Calcoli
+somma1 = gg1 + (mm1*30) + (aaaa1*360)		
+somma2 = gg2 + (mm2*30) + (aaaa2*360)		
 
-#Calcolo degli anni, mesi e giorni
-difAnni = int(differenza /360 )
-differenza=differenza-(difAnni*360)
-difMesi = int(differenza / 30)
-difGiorni=differenza-(difMesi*30)
+
+if aaaa1>aaaa2:
+	differenza = int(somma1 - somma2)				
+	anni = int(differenza/360)
+	differenza = differenza-anni*360
+	mesi = int(differenza/30)
+	giorni = differenza-mesi*30
+
+elif aaaa2>aaaa1:
+	differenza = int(somma2 - somma1)				
+	anni = int(differenza/360)
+	differenza = differenza-anni*360
+	mesi = int(differenza/30)
+	giorni = differenza-mesi*30
+
+else:
+	if mm1==mm2:
+		if gg1>gg2:
+			differenza = int(somma1 - somma2)				
+			anni = int(differenza/360)
+			differenza = differenza-anni*360
+			mesi = int(differenza/30)
+			giorni = differenza-mesi*30
+			
+		elif gg2>gg1:
+			differenza = int(somma2 - somma1)				
+			anni = int(differenza/360)
+			differenza = differenza-anni*360
+			mesi = int(differenza/30)
+			giorni = differenza-mesi*30
+
+		else:
+			differenza = int(somma1 - somma2)				
+			anni = int(differenza/360)
+			differenza = differenza-anni*360
+			mesi = int(differenza/30)
+			giorni = differenza-mesi*30
+	
+	elif mm1>mm2:
+		differenza = int(somma1 - somma2)				
+		anni = int(differenza/360)
+		differenza = differenza-anni*360
+		mesi = int(differenza/30)
+		giorni = differenza-mesi*30		
+	
+	else:
+		differenza = int(somma2 - somma1)				
+		anni = int(differenza/360)
+		differenza = differenza-anni*360
+		mesi = int(differenza/30)
+		giorni = differenza-mesi*30
 
 #Lettura a schermo del risultato
-print ("La differenza dei giorni, mesi e anno tra i 2 è \n" 
-	 ,difGiorni, "giorni", difMesi, "mese", difAnni, "anni") 
+print("Il tempo trascorso tra le date è di ",anni,"anno/i,",mesi,"mese/i e ",giorni,"giorno/i.")
