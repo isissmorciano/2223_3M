@@ -69,6 +69,13 @@
 51. [Coppie di numeri uguali](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_051.py)
 
 ## Liste
+52. [Gli alunni di 3M](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py)
+53. [Cognomi lunghi con E e C](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
+54. [Nomi femminili senza volitivo](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
+55. [Nomi femminili con volitivo](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
+56. [Numeri casuali](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
+
+
 
 ## Input/Output: print() e input()
 
