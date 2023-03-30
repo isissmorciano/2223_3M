@@ -75,7 +75,18 @@
 55. [Nomi femminili con volitivo](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
 56. [Numeri casuali](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
 
-
+## Funzioni
+57. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_057.py)
+58. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_058.py)
+59. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_059.py)
+60. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_060.py)
+61. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_061.py)
+62. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_062.py)
+63. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_063.py)
+64. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_064.py)
+65. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_065.py)
+66. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_066.py)
+67. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_067.py)
 
 ## Input/Output: print() e input()
 
