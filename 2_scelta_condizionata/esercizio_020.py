@@ -1,22 +1,22 @@
 #consegna
-print("inserisci un numeri(da 1 a 7) ti dira che giorno della settimana è")
+print("Inserisci un numero (da 1 a 7) e il programma stampa a che giorno della settimana corrisponde.")
 
-Ng = int(input(" che numero vuoi inserire ?  "))
+Ng = int(input("Che numero vuoi inserire?: "))
 if Ng <=7 and Ng >= 1:
     match Ng:
         case 1:
-            print("monday")
+            print("\nMonday")
         case 2:
-            print("tuesday")
+            print("\nTuesday")
         case 3:
-            print("wednesday")
+            print("\nWednesday")
         case 4:
-            print("thursday")
+            print("\nThursday")
         case 5:
-            print("friday")
+            print("\nFriday")
         case 6:
-            print("saturday")
+            print("\nSaturday")
         case 7:
-            print("sunday")
+            print("\nSunday")
 else :
-    print ("errore")
+    print ("\nerrore.")

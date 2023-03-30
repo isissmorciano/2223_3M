@@ -3,10 +3,10 @@
 #Scrivi un algoritmo che determini la circonferenza e l’area di un cerchio conoscendo il raggio.
 
 #Scritta a schermo di cosa fa il programma
-print ("Inserisci il raggio del cerchio: ")
+print (f'Inserisci il raggio del cerchio: ')
 
 #Inserimento dei valori
-raggio = float(input("Inserisci il raggio: "))
+raggio = float(input(f'Inserisci il raggio: '))
 
 #Calcolo del totale
 circonferenza = 3.14*raggio*2

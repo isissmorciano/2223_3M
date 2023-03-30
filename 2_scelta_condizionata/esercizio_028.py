@@ -1,41 +1,77 @@
-#Questo programma calcola l'area e il perimetro di un triangolo isoscele, equilatero o scaleno.
-#inizio
+#Inizio
 
-print("|------------------------------------------------------|")
-print("|Verrà calcolata l'area e il preimetro del triangolo.  |")
-print("|1) Equilatero                                         |")
-print("|2) Isoscele                                           |")
-print("|3) Scaleno                                            |")
-print("|4) Rettangolo                                         |")
-print("|------------------------------------------------------|")
+#Utilizzo del programma
+print("------------------------------------------------------------------------------------------------------------")
+print("-          Il programma calcola area e perimetro di un triangolo e distingue la sua tipologia.             -")
+print("------------------------------------------------------------------------------------------------------------")
 
-opz=str(input("\nScegliere il tipo di triangolo che si vuole calcolare: "))
+#Richiesta variabili
+l1 = float(input("Digita la misura del 1° lato: "))
+l2 = float(input("Digita la misura del 2° lato: "))
+l3 = float(input("\nDigita la misura del 3° lato: "))
 
-ipo=float(input("Inserire primo lato (ipotenusa): "))
-cat1=float(input("Inserire secondo lato (cateto 1): "))
-cat2=float(input("Inserire terzo lato (cateto 2): "))
+#Elaborazione dati
+if l1 != l2 and l1!= l3 and l2 != l3:
+	print("\nIl triangolo è scaleno.")
 
-match opz:
-	case "1":
-		per=ipo+cat1+cat2
-		area=(3**(1/2)/4)*ipo**2
-		print("Triangolo Equilatero\nPerimetro: ", per, "\nArea: ", area)
+	perimetro = (l1 + l2 + l3)
 
-	case "2":
-		per=ipo+cat1+cat2
-		h=(cat1**2-(ipo/2)**2)**(1/2)
-		area=(ipo*h)/2
-		print("Triangolo Iscoscele\nPerimetro: ", per, "\nArea: ", area)
+	base = float(input("\nInserire il valore della base: "))
+	alte = float(input("Inserire il valore dell'altezza: "))
 
-	case "3":
-		per=ipo+cat1+cat2
-		h=cat1*cat2/ipo
-		area=ipo*h/2
-		print("Triangolo Scaleno\nPerimetro: ", per, "\nArea: ", area)
+	area = base * (alte / 2)
 
-	case "4":
-		per=ipo+cat1+cat2
-		area=(cat1*cat2)/2
-		print("Triangolo Rettangolo\nPerimetro: ", per, "\nArea: ", area)
-	case _:
-		print("Scegliere un'opzione valida.")
+	print("Il perimetro del triangolo è: ",perimetro)
+	print("L'area del triangolo è: ",area)
+
+elif l1 == l2 and l1 == l3:
+	print("Il triangolo è equilatero.")
+
+	perimetro = (l1 + l2 + l3)
+
+	alte = 3**(1/2)
+	alte = alte * l1
+	alte = alte / 2
+
+	area = l1 * (alte / 2)
+	
+	print("Il perimetro del triangolo è: ",perimetro)
+	print("l'area del triangolo è: ",area)
+
+else:
+	print("Il triangolo è isoscele.")
+	
+	if l1 != l2 and l1!=l3:
+
+		alte =l1/2
+		alte = l2**2 + alte**(1/2)
+		alte = alte ** (1/2)
+
+		perimetro = l1 + l2 + l3
+		area = (l1 * alte)/2
+		print("Il perimetro del triangolo è: ",perimetro)
+		print("l'area del triangolo è: ", area)
+	
+	elif l2!=l1 and l2!=l3:
+
+		alte =l2/2
+		alte = l1**2 + alte**(1/2)
+		alte = alte ** (1/2)
+
+		perimetro = l1 + l2 + l3
+		area = (l2 * alte)/2
+		print("Il perimetro del triangolo è: ",perimetro)
+		print("l'area del triangolo è: ", area)
+	
+	else: 
+
+		alte =l3/2
+		alte = l2**2 + alte**(1/2)
+		alte = alte ** (1/2)
+
+		perimetro = l1 + l2 + l3
+		area = (l3 * alte)/2
+		print("Il perimetro del triangolo è: ",perimetro)
+		print("l'area del triangolo è: ", area)
+
+#Fine

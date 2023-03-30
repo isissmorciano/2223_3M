@@ -45,16 +45,48 @@
 30. [Convertitore_lettera](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_030.py)
 31. [Esercizi_vari_di_matematica](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_031.py)
 32. [Calcolo_circonferenza_e_area](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_032.py)
+
+
+## Cicli: for e while
 33. [Somma_di_valori_assoluti](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_033.py)
 34. [Quiz_di_domande_con_punteggio](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_034.py)
 35. [Statistiche_numeriche](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_035.py)
 36. [Moltiplicazione_con_l'addizione](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_036.py)
+37. [Contribuenti reddito > 30K](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_037.py)
+38. [Prospetto risultati seggi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_038.py)
+39. [Dipendenti età pensionabile e minorenni](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_039.py)
+40. [Indice di obesità e conteggio obesi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_040.py)
+41. [Gioco di lancio monete e dadi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_041.py)
+42. [Prenotazione alberghi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_042.py)
+43. [Prodotto più costoso](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_043.py)
+44. [Indice di attività città](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_044.py)
+45. [Albero di Natale](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_045.py)
+46. [Superficie collinare](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_046.py)
+47. [Numeri pari e dispari](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_047.py)
+48. [Numeri doppi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_048.py)
+49. [Informazioni CD](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_049.py)
+50. [Calcolo quadrato di un numero](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_050.py)
+51. [Coppie di numeri uguali](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_051.py)
 
-## Cicli: for e while
-37. [temp](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_037.py)
-38. [temp](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_038.py)
+## Liste
+52. [Gli alunni di 3M](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py)
+53. [Cognomi lunghi con E e C](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
+54. [Nomi femminili senza volitivo](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
+55. [Nomi femminili con volitivo](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
+56. [Numeri casuali](https://github.com/isissmorciano/2223_3M/blob/main/4_liste/esercizio_052.py) 
 
-
+## Funzioni
+57. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_057.py)
+58. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_058.py)
+59. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_059.py)
+60. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_060.py)
+61. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_061.py)
+62. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_062.py)
+63. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_063.py)
+64. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_064.py)
+65. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_065.py)
+66. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_066.py)
+67. [temp](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_067.py)
 
 ## Input/Output: print() e input()
 
