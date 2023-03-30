@@ -45,16 +45,30 @@
 30. [Convertitore_lettera](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_030.py)
 31. [Esercizi_vari_di_matematica](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_031.py)
 32. [Calcolo_circonferenza_e_area](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_032.py)
+
+
+## Cicli: for e while
 33. [Somma_di_valori_assoluti](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_033.py)
 34. [Quiz_di_domande_con_punteggio](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_034.py)
 35. [Statistiche_numeriche](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_035.py)
 36. [Moltiplicazione_con_l'addizione](https://github.com/isissmorciano/2223_3M/blob/main/2_scelta_condizionata/esercizio_036.py)
+37. [Contribuenti reddito > 30K](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_037.py)
+38. [Prospetto risultati seggi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_038.py)
+39. [Dipendenti età pensionabile e minorenni](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_039.py)
+40. [Indice di obesità e conteggio obesi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_040.py)
+41. [Gioco di lancio monete e dadi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_041.py)
+42. [Prenotazione alberghi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_042.py)
+43. [Prodotto più costoso](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_043.py)
+44. [Indice di attività città](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_044.py)
+45. [Albero di Natale](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_045.py)
+46. [Superficie collinare](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_046.py)
+47. [Numeri pari e dispari](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_047.py)
+48. [Numeri doppi](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_048.py)
+49. [Informazioni CD](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_049.py)
+50. [Calcolo quadrato di un numero](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_050.py)
+51. [Coppie di numeri uguali](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_051.py)
 
-## Cicli: for e while
-37. [temp](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_037.py)
-38. [temp](https://github.com/isissmorciano/2223_3M/blob/main/3_cicli/esercizio_038.py)
-
-
+## Liste
 
 ## Input/Output: print() e input()
 
