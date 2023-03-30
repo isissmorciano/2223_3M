@@ -1,4 +1,6 @@
+#ESERCIZIO 38
 #Dati in input i risultati relativi a N seggi elettorali, per ogni seggio hai le seguenti informazioni : numero iscritti, numero votanti, numero di schede nulle, numero di schede bianche. Scrivi un programma che stampi il seguente prospetto: percentuale votanti su tutti i seggi, percentuale schede bianche, percentuale schede nulle.
+
 #Importiamo random 
 import random
 
@@ -32,3 +34,5 @@ for i in range(1):
     print(f"Votanti = {votanti}%")
     print(f"Schede nulle = {schedeNulle}%")
     print(f"Schede bianche = {schedeBianche}")
+    
+#Fine
