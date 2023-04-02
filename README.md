@@ -167,6 +167,8 @@ D-E = 1
 54. 1.Data una lista con elementi: "Signore Mario" e/o "Signora Maria", dre in output una lista dei soli nomi femminili senza volitivo.
 55. Data in input una lista dei soli nominativi femminili, dire quanti sono i nomi femminili e generare una nuova lista con i nomi femminili e il volitivo esempio: "Sig.ra Maria" e visualizzarlo.
 56. Creare una lista di 8 numeri random tra 1 e 10 (estremi inclusi) e calcolare: il massimo dei numeri, il minimo dei numeri, la moda dei numeri, una lista con i tre risultati, la lista con i risultati. Utilizzare le funzioni e il metodo top-down nella risoluzione del problema.
+
+
 ## Funzioni
 57. Creare una funzione descrizione() con due parametri nome ed eta. La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione("Pippo",23). Utilizzare il type-hinting.
 58. Creare una funzione descrizione() con due parametri nome ed eta. La funzione restituisce una stringa formattata nel seguente modo: "nome ha eta anni." descrizione("Pippo",23). Utilizzare il type-hinting.
@@ -179,6 +181,21 @@ D-E = 1
 65. Creare una funzione che riceve tre numeri interi e restituisce la differenza tra il più grande e il più piccolo. Creare anche un main che consenta di provare la funzione.
 66. Creare una funzione che restituisce se un numero intero ha almeno 3 divisori. Creare poi un programma che dica se un numero passato dall’utente e il più grande numero intero più piccolo del suo quadrato hanno almeno tre divisori.
 67. Calcolare l'n-esimo numero della successione di Fibonacci. Creare la funzione iterative_fibonacci(n:int) -> int che calcola il numero in modo iterativo. Creare la funzione recursive_fibonacci(n:int) -> int che calcola il numero in modo ricorsivo.
+
+
+##VETTORI
+68. Siano dati in input il codice fiscale, il reddito e il nome di una serie di contribuenti, stampa i nomi e i codici fiscali dei contribuenti con reddito
+superiore a 30.000 euro.
+69. Il risultato di uno studente allo scrutinio finale è deciso sulla base del numero di insufficienze nelle materie secondo uno schema di questo tipo: nessuna insufficienza = promosso, da 1 a 3 insufficienze = giudizio sospeso, più di 3 insufficienze = non promosso. Scrivi un programma che, presi in input il nome e la media dei voti di uno studente nelle diverse materie, calcoli e stampi il nome dello studente e il suo risultato finale.
+70. Carica un vettore di numeri poi stampa la somma di tutti i numeri in posizione dispari e in posizione pari.
+71. Dati gli stipendi di N dipendenti, realizza un programma che memorizzati i dati in un vettore, permetta di: visualizzare la posizione dello stipendio massimo, visualizzare la media degli stipendi, incrementare lo stipendio di tutti del 10%.
+72.  I dati relativi al campionato di calcio sono memorizzati in tre vettori paralleli: 1)SQUADRE (contenente il nome della squadra), 2)SERIE (contenente << A >> o << B >> ), 3)PUNTI (contenente il puntegeo ottenuto nel campionato). Scrivi un programma che preveda di: 
+1) visualizzare l’elenco delle squadre di serie A nella forma:                                                                                                                                                    ELENCO SQUADRE SERIE A                                                                                                                                         SQUADRA          PUNTI
+2) dato in input il nome di una squadra, stampare la serie in cui milita e i punti realizzati: se la squadra non esiste, stampare una segnalazione di errore, costruire e stampare un altro vettore CLASSE contenente solo le squadre di serie B, cercare e stampare il nome della squadra campione di serie A.
+73. Dati due vettori numerici di dimensione n e m con i valori già inseriti, creare un terzo vettore di dimensione n+m con tutti i valori dei precedenti due.
+74. Dati due vettori di dimensione n dichiarare un terzo vettore di dimensione n che contenga SOLO i primi i-esimi valori dei due vettori fino al suo riempimento.
+75. Siano dati in input tre vettori paralleli contenenti il titolo, l'autore e l'incasso di N film di prima visione, scrivi un programma in grado di soddisfare le seguenti richieste: 1)stampare tutti i film di un determinato autore (fornito in input), 2)stampare titolo e autore del film con maggiore incasso, 3)stampare la media degli incassi dei film di un determinato autore.
+
 
 
 
