@@ -183,7 +183,7 @@ D-E = 1
 67. Calcolare l'n-esimo numero della successione di Fibonacci. Creare la funzione iterative_fibonacci(n:int) -> int che calcola il numero in modo iterativo. Creare la funzione recursive_fibonacci(n:int) -> int che calcola il numero in modo ricorsivo.
 
 
-##VETTORI
+## Vettori
 68. Siano dati in input il codice fiscale, il reddito e il nome di una serie di contribuenti, stampa i nomi e i codici fiscali dei contribuenti con reddito
 superiore a 30.000 euro.
 69. Il risultato di uno studente allo scrutinio finale è deciso sulla base del numero di insufficienze nelle materie secondo uno schema di questo tipo: nessuna insufficienza = promosso, da 1 a 3 insufficienze = giudizio sospeso, più di 3 insufficienze = non promosso. Scrivi un programma che, presi in input il nome e la media dei voti di uno studente nelle diverse materie, calcoli e stampi il nome dello studente e il suo risultato finale.
