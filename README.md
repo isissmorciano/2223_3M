@@ -195,6 +195,7 @@ superiore a 30.000 euro.
 73. Dati due vettori numerici di dimensione n e m con i valori già inseriti, creare un terzo vettore di dimensione n+m con tutti i valori dei precedenti due.
 74. Dati due vettori di dimensione n dichiarare un terzo vettore di dimensione n che contenga SOLO i primi i-esimi valori dei due vettori fino al suo riempimento.
 75. Siano dati in input tre vettori paralleli contenenti il titolo, l'autore e l'incasso di N film di prima visione, scrivi un programma in grado di soddisfare le seguenti richieste: 1)stampare tutti i film di un determinato autore (fornito in input), 2)stampare titolo e autore del film con maggiore incasso, 3)stampare la media degli incassi dei film di un determinato autore.
+76. Memorizza in un vettore l’elenco dei prezzi di listino di alcuni prodotti. Aumenta detti prezzi, tenendo presente che i prezzi inferiori a 5 euro andranno aumentati del 10% mentre quelli superiori andranno aumentati del 6%.
 
 
 
