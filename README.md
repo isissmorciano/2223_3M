@@ -89,7 +89,7 @@
 67. [fibonacci_iterativo_ricorsivo](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_067.py)
 
 ## Array
-[voti_studenti_da_file](voti_studenti_da_file.md)
+[voti_studenti_da_file](./0_testo_esercizi/voti_studenti_da_file.md)
 
 ## Input/Output: print() e input()
 
