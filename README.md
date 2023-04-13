@@ -88,6 +88,9 @@
 66. [tre_divisori](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_066.py)
 67. [fibonacci_iterativo_ricorsivo](https://github.com/isissmorciano/2223_3M/blob/main/5_funzioni/esercizio_067.py)
 
+## Array
+[voti_studenti_da_file](voti_studenti_da_file.md)
+
 ## Input/Output: print() e input()
 
 1. Dato un importo, calcolare lo sconto del 5% e applicare un'IVA dell'8%.
